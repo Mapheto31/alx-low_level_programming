@@ -2,9 +2,9 @@
 /**
  *main - Entry point
  * Return: Always 0 (success)
- */
+i */
 int main(void)
 {
-printif("with proper grammar, but the outcome is a piece of art, \n");
+printf("with proper grammar, but the outcome is a piece of art, \n");
 return (0);
 }
